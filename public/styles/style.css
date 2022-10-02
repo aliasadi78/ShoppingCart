@@ -182,3 +182,34 @@ body {
     color: #183a18;
     cursor: pointer;
 }
+
+/* }@media screen and (max-width: 1000px) {
+    .cart{
+        width: 40vw;
+    }
+} */
+@media screen and (max-width: 1000px) {
+    .cart{
+        width: 40vw;
+    }
+}
+@media screen and (max-width: 800px) {
+    .cart{
+        width: 50vw;
+    }
+}
+@media screen and (max-width: 600px) {
+    .cart{
+        width: 60vw;
+    }
+}
+@media screen and (max-width: 500px) {
+    .cart{
+        width: 80vw;
+    }
+}
+@media screen and (max-width: 300px) {
+    .cart{
+        width: 100vw;
+    }
+}
